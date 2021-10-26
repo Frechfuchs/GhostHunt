@@ -10,8 +10,8 @@ E - Use objects
 
 Developed in 48h (+ some polishing :see_no_evil:)
 
-![Screenshot1](GH-1.png)
-![Screenshot2](GH-2.png)
+![Screenshot1](GH-2.png)
+![Screenshot2](GH-1.png)
 ![Screenshot3](GH-3.png)
 ![Screenshot4](GH-4.png)
 
