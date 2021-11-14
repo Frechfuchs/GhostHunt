@@ -10,7 +10,8 @@ E - Use objects
 
 Developed in 48h (+ some polishing :see_no_evil:)
 
-**Google Drive Download**: [](https://drive.google.com/file/d/1wcUxkr8xYOyLkPeBf4hythX1LSolnUEd/view?usp=sharing)
+[**Click here to download from Google Drive**](https://drive.google.com/file/d/1wcUxkr8xYOyLkPeBf4hythX1LSolnUEd/view?usp=sharing)
+..or download the project and run it in UE4 yourself :)
 
 ![Screenshot1](GH-2.png)
 ![Screenshot2](GH-1.png)
